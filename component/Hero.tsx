@@ -5,10 +5,10 @@ import { useEffect, useRef } from "react";
 import gsap from "gsap";
 
 export default function Hero() {
-  const badgeRef = useRef(null);
-  const headingRef = useRef(null);
-  const descriptionRef = useRef(null);
-  const buttonRef = useRef(null);
+  const badgeRef = useRef<HTMLDivElement | null>(null);
+  const headingRef = useRef<HTMLHeadingElement | null>(null);
+  const descriptionRef = useRef<HTMLParagraphElement | null>(null);
+  const buttonRef = useRef<HTMLButtonElement | null>(null);
 
   // Function to run animations
   const animateContent = () => {
