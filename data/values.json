@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Clean & Scalable Code",
+    "description": "I write well-structured, maintainable code using modern technologies like React, Next.js, and Node.js to build scalable applications.",
+    "icon": "tools"
+  },
+  {
+    "id": 2,
+    "title": "On-Time Delivery",
+    "description": "I respect deadlines and ensure timely delivery of projects without compromising on quality.",
+    "icon": "clock"
+  },
+  {
+    "id": 3,
+    "title": "Problem Solving Mindset",
+    "description": "I focus on solving real-world problems with efficient and optimized solutions tailored to user needs.",
+    "icon": "helmet"
+  },
+  {
+    "id": 4,
+    "title": "Modern & Creative UI",
+    "description": "I design responsive, user-friendly, and visually appealing interfaces using Tailwind CSS and modern UI practices.",
+    "icon": "wifi"
+  }
+]

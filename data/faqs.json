@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "question": "What services do you offer?",
+    "answer": "I specialize in building modern web applications using React, Next.js, Tailwind CSS, and full-stack solutions with Node.js and databases like MongoDB and PostgreSQL."
+  },
+  {
+    "id": "02",
+    "question": "How can I start a project with you?",
+    "answer": "You can reach out through the contact form or email with your project idea. I’ll review your requirements and get back with a plan, timeline, and next steps."
+  },
+  {
+    "id": "03",
+    "question": "Do you work on both frontend and backend?",
+    "answer": "Yes, I handle complete full-stack development including UI design, frontend development, backend APIs, and database integration."
+  },
+  {
+    "id": "04",
+    "question": "Can you customize projects based on my requirements?",
+    "answer": "Absolutely. Every project is tailored to match your specific needs, whether it's a portfolio website, admin panel, or a custom web application."
+  },
+  {
+    "id": "05",
+    "question": "What technologies do you use?",
+    "answer": "I work with modern technologies like React, Next.js, Tailwind CSS, Node.js, Express, and PostgreSQL to build scalable and high-performance applications."
+  },
+  {
+    "id": "06",
+    "question": "Do you provide ongoing support after project completion?",
+    "answer": "Yes, I offer post-launch support and maintenance to ensure your application runs smoothly and stays up to date."
+  }
+]

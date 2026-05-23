@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "title": "Requirement Analysis",
+    "description": "Understanding client needs, project goals, and technical requirements to ensure a clear roadmap for development.",
+    "tag": "How I Work"
+  },
+  {
+    "id": "02",
+    "title": "Design & Development",
+    "description": "Building scalable and high-performance applications using modern technologies like React, Next.js, and Node.js.",
+    "tag": ""
+  },
+  {
+    "id": "03",
+    "title": "Testing & Deployment",
+    "description": "Ensuring quality with thorough testing, performance optimization, and smooth deployment for real-world use.",
+    "tag": ""
+  }
+]

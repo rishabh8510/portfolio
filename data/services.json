@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "title": "Web Development",
+    "description": "Building modern, responsive, and high-performance websites using technologies like React, Next.js, and Node.js.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "02",
+    "title": "UI/UX Design",
+    "description": "Designing intuitive and visually appealing user interfaces to enhance user experience and engagement.",
+    "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "03",
+    "title": "Cloud & DevOps",
+    "description": "Implementing cloud infrastructure and DevOps practices for faster deployment, scalability, and reliability.",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "04",
+    "title": "Digital Marketing",
+    "description": "Boosting online presence with SEO, social media marketing, and performance-driven campaigns.",
+    "image": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "05",
+    "title": "Software Development",
+    "description": "Developing custom software solutions tailored to business needs with scalable architecture.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "06",
+    "title": "API Development & Integration",
+    "description": "Creating secure and scalable APIs and integrating third-party services seamlessly.",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop"
+  }
+]

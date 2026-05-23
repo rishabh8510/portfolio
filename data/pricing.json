@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Starter Package",
+    "price": "$499",
+    "duration": "/project",
+    "button": "Get Started",
+    "features": [
+      "Responsive Website Design",
+      "Basic SEO Optimization",
+      "Contact Form Integration",
+      "1 Month Support"
+    ]
+  },
+  {
+    "title": "Standard Package",
+    "price": "$999",
+    "duration": "/project",
+    "button": "Get Started",
+    "features": [
+      "Full Stack Web Application",
+      "Authentication System",
+      "API Integration",
+      "3 Months Support"
+    ]
+  },
+  {
+    "title": "Premium Package",
+    "price": "Custom",
+    "duration": "",
+    "button": "Contact Me",
+    "features": [
+      "Custom Web Solutions",
+      "Advanced Features & Scalability",
+      "Performance Optimization",
+      "Priority Support"
+    ]
+  }
+]
